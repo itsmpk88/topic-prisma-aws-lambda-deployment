@@ -15,7 +15,7 @@ Blog post: https://dev.to/eddeee888/how-to-deploy-prisma-in-aws-lambda-with-serv
 
 \*\* An IAM user with full admin access was used to test the Lambda in this guide. Make sure you use appropriate permissions for your IAM user
 
-## How it works
+## How it works.
 
 ### AWS lambda and lambda layers
 
